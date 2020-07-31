@@ -20,8 +20,6 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 * **Arthur Freitas Cesarino dos Santos** - *Desenvolvimento* - [Arthur Freitas](https://github.com/arthurfcs98)
 
 ---
