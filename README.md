@@ -1,6 +1,6 @@
 # Jogo da Velha Js/Html/Css 01
 
-Projeto consiste na desenvolvimento de um jogo da velha, utilizando os fundamentos de HTML/Css/Js. Objetivo desse projeto foi colocar em prática os primeiros aprendizados de Js (querySelector, DOM, EventListener).
+Projeto consiste no desenvolvimento de um jogo da velha, utilizando os fundamentos de HTML/Css/Js. Objetivo desse projeto foi colocar em prática os primeiros aprendizados de Js (querySelector, DOM, EventListener).
 
 
 
