@@ -16,7 +16,8 @@ Apenas um editor de codigo.
 
 ## 📦 Desenvolvimento
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Desenvolvido com Js/HTML/CSS
+VSCode
 
 ## ✒️ Autores
 
